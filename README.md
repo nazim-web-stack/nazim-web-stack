@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nazim Ali 👋
 
-<!--
-**nazim-web-stack/nazim-web-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN Stack Developer | BS Computer Science Student @ COMSATS University Islamabad, Sahiwal Campus
 
-Here are some ideas to get you started:
+I build full-stack web applications with React, Node.js, Express and MongoDB. Currently looking for internship opportunities to grow as a professional web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+`HTML5` `CSS3` `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `JWT Auth` `Git & GitHub` `Python` `Flutter`
+
+## 🚀 Featured Projects
+
+- **[Pizza Delicious](https://github.com/nazim-web-stack/pizza-restaurant)** — Full-stack restaurant ordering platform with React, Node/Express, MongoDB, JWT auth and role-based admin access.
+- **[MERN E-Commerce Order System](https://github.com/nazim-web-stack/ecommerce-order-system)** — Order management system with product listings, cart flow and order tracking.
+- **HomeServe** — Home services booking app built with Flutter & Firebase (GetX/MVVM architecture, 20 screens).
+
+## 📫 Reach Me
+
+- Email: nazimali116844@gmail.com
+- LinkedIn: [nazim-ali-349465406](https://linkedin.com/in/nazim-ali-349465406/)
